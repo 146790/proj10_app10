@@ -1,1 +1,10 @@
 *.pyc
+.vscode
+__pycache__
+env
+staticfiles
+*.py[co]
+local_settings.py
+*.pyc
+*.swp
+.db_store
